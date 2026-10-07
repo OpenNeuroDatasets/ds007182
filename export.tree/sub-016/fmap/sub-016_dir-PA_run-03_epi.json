@@ -1,8 +1,0 @@
-{
-    "IntendedFor": "func/sub-016_task-fomo_run-03_bold.nii.gz",
-    "SkullStripped": false,
-    "PhaseEncodingDirection": "j",
-    "EffectiveEchoSpacing": 0.00054,
-    "TotalReadoutTime": 0.05994,
-    "Session": "ses-01"
-}
