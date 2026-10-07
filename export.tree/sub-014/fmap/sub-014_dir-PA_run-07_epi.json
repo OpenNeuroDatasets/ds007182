@@ -1,8 +1,0 @@
-{
-    "IntendedFor": "func/sub-014_task-farmers_run-07_bold.nii.gz",
-    "SkullStripped": false,
-    "PhaseEncodingDirection": "j",
-    "EffectiveEchoSpacing": 0.00054,
-    "TotalReadoutTime": 0.05994,
-    "Session": "ses-03"
-}

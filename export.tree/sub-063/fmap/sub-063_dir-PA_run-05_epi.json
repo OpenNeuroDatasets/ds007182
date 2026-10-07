@@ -1,8 +1,0 @@
-{
-    "IntendedFor": "func/sub-063_task-rest_run-05_bold.nii.gz",
-    "SkullStripped": false,
-    "PhaseEncodingDirection": "j",
-    "EffectiveEchoSpacing": 0.00054,
-    "TotalReadoutTime": 0.05994,
-    "Session": "ses-02"
-}
