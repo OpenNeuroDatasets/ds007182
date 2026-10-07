@@ -1,0 +1,10 @@
+filename	run_order	session
+func/sub-050_task-fomo_run-01_bold.nii.gz	1	1
+func/sub-050_task-royals_run-02_bold.nii.gz	2	1
+func/sub-050_task-rest_run-03_bold.nii.gz	3	1
+func/sub-050_task-firstdates_run-04_bold.nii.gz	4	2
+func/sub-050_task-rest_run-05_bold.nii.gz	5	2
+func/sub-050_task-farmers_run-06_bold.nii.gz	6	2
+func/sub-050_task-interviews_run-07_bold.nii.gz	7	3
+func/sub-050_task-rest_run-08_bold.nii.gz	8	3
+func/sub-050_task-poland_run-09_bold.nii.gz	9	3

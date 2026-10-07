@@ -1,0 +1,7 @@
+filename	run_order	session
+func/sub-049_task-firstdates_run-01_bold.nii.gz	1	1
+func/sub-049_task-rest_run-02_bold.nii.gz	2	1
+func/sub-049_task-farmers_run-03_bold.nii.gz	3	1
+func/sub-049_task-interviews_run-07_bold.nii.gz	7	3
+func/sub-049_task-poland_run-08_bold.nii.gz	8	3
+func/sub-049_task-rest_run-09_bold.nii.gz	9	3

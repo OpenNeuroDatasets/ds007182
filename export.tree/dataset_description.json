@@ -1,0 +1,27 @@
+{
+    "Name": "PRISMA: Precision Functional Imaging in Autism",
+    "BIDSVersion": "1.0.2",
+    "License": "CC0",
+    "Authors": [
+        "Nadža Džinalija",
+        "Hilde Geurts",
+        "Steven Scholte",
+        "Joe Bathelt"
+    ],
+    "Acknowledgements": "We thank all participants for their time and contribution to this research. Further, we are grateful for the contributions of Fabiënne van Beek, Jette Benckhuisen, Juni Boumeester, Nando Braspenning, Noor Brink, Roos Heuschmidt, Helena Hoxha, Elisa Kanpaanpää, and Fleur van Pelt for their assistance with data collection.",
+    "HowToAcknowledge": "",
+    "Funding": [
+        "This dataset is part of the project Precision Functional Imaging in Autism - A Comprehensive Study on Functional Brain Networks and State-Dependent Variability with file number 406.XS.24.01.007 which was partly financed by the Dutch Research Council (NWO). "
+    ],
+    "ReferencesAndLinks": [
+        "to be added"
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds007182.v1.0.1",
+    "SourceDatasets": [],
+    "InstitutionName": "University of Amsterdam",
+    "InstitutionalDepartmentName": "Department of Psychology",
+    "InstitutionAddress": "Nieuwe Achtergracht 129B, 1018 WS Amsterdam, The Netherlands",
+    "Manufacturer": "Philips",
+    "ManufacturersModelName": "Achieva dStream",
+    "MagneticFieldStrength": 3
+}

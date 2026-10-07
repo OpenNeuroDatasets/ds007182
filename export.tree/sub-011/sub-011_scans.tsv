@@ -1,0 +1,7 @@
+filename	acq_time	run_order	session
+func/sub-011_task-rest_run-01_bold.nii.gz	2024-10-21T13:43:13	1	1
+func/sub-011_task-fomo_run-02_bold.nii.gz	2024-10-21T13:43:13	2	1
+func/sub-011_task-poland_run-03_bold.nii.gz	2024-10-21T13:43:13	3	1
+func/sub-011_task-royals_run-04_bold.nii.gz	2024-11-01T09:10:27	4	2
+func/sub-011_task-firstdates_run-05_bold.nii.gz	2024-11-01T09:10:27	5	2
+func/sub-011_task-rest_run-06_bold.nii.gz	2024-11-01T09:10:27	6	2

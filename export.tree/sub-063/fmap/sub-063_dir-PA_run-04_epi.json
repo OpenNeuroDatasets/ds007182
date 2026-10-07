@@ -1,0 +1,8 @@
+{
+    "IntendedFor": "func/sub-063_task-poland_run-04_bold.nii.gz",
+    "SkullStripped": false,
+    "PhaseEncodingDirection": "j",
+    "EffectiveEchoSpacing": 0.00054,
+    "TotalReadoutTime": 0.05994,
+    "Session": "ses-02"
+}
