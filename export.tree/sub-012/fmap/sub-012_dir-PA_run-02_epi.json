@@ -1,0 +1,8 @@
+{
+    "IntendedFor": "func/sub-012_task-interviews_run-02_bold.nii.gz",
+    "SkullStripped": false,
+    "PhaseEncodingDirection": "j",
+    "EffectiveEchoSpacing": 0.00054,
+    "TotalReadoutTime": 0.05994,
+    "Session": "ses-01"
+}

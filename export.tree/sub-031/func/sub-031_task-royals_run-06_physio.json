@@ -1,0 +1,12 @@
+{
+    "TaskName": "royals",
+    "SamplingFrequency": 496,
+    "Columns": [
+        "cardiac",
+        "respiratory",
+        "trigger"
+    ],
+    "Manufacturer": "Philips",
+    "StartTime": 0,
+    "Session": "ses-02"
+}
