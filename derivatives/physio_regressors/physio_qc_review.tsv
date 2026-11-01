@@ -1,0 +1,56 @@
+subject_id	file_id	issues	ppg_useable	rsp_useable	notes	reviewed_by	review_date
+sub-001	run-01	HR high 104.7 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-002	run-09	RR low 6.4 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-003	run-07	RR high 25.5 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-003	run-08	RR high 25.0 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-006	run-02	RR high 29.3 br/min	FALSE	TRUE	Detected too many peaks	JB	22/01/2026
+sub-006	run-01	RR high 38.0 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-05	HR low 46.1 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-03	HR low 42.8 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-06	HR low 44.4 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-08	HR low 46.6 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-02	HR low 43.9 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-01	HR low 44.4 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-04	HR low 47.8 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-09	HR low 46.7 bpm; RR high 30.0 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-009	run-07	HR low 45.4 bpm; RR high 25.1 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-011	run-04	HR high 100.5 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-012	run-02	RSP flatline 49.1s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-012	run-03	RSP flatline 82.2s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-012	run-01	RSP flatline 62.2s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-014	run-04	PPG quality 0.65; PPG flatline 192.6s	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-020	run-07	HR low 43.8 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-020	run-08	HR low 43.6 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-020	run-05	HR low 46.5 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-020	run-03	HR low 41.7 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-020	run-06	HR low 46.1 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-020	run-02	HR low 43.8 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-020	run-09	HR low 44.6 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-020	run-01	HR low 44.1 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-021	run-03	PPG quality 0.51; PPG flatline 181.5s	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-024	run-07	PPG quality 0.52; PPG flatline 291.6s	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-024	run-05	PPG flatline 28.6s	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-027	run-02	RSP flatline 275.6s; RR low 6.1 br/min	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-027	run-01	RSP flatline 161.5s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-029	run-04	PPG flatline 444.8s	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-031	run-03	RR low 7.5 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-033	run-03	PPG quality 0.35; PPG flatline 38.6s; HR low 40.0 bpm	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-033	run-01	RR high 25.1 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-035	run-09	RR high 45.1 br/min	FALSE	TRUE	Detected too many peaks	JB	22/01/2026
+sub-041	run-09	RR high 26.3 br/min	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-043	run-08	PPG flatline 58.9s	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-048	run-03	PPG flatline 67.2s	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-049	run-07	RSP flatline 134.6s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-049	run-08	RSP flatline 192.1s; RR low 6.4 br/min	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-049	run-09	RSP flatline 414.4s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-050	run-01	RSP flatline 95.3s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-050	run-03	RSP flatline 104.5s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-050	run-02	RSP flatline 267.6s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-054	run-06	PPG quality 0.29; PPG flatline 37.5s; HR low 30.3 bpm	TRUE	FALSE	Noisy signal	JB	22/01/2026
+sub-055	run-08	RR low 7.9 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-056	run-01	RR high 26.6 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-056	run-02	RR high 25.0 br/min	TRUE	TRUE	Looks fine	JB	22/01/2026
+sub-056	run-03	PPG quality 0.44; PPG flatline 350.6s; RSP flatline 350.6s; RR high 93.4 br/min	FALSE	FALSE	Signals cuts off	JB	22/01/2026
+sub-059	run-02	RSP flatline 570.3s; RR low 4.3 br/min	FALSE	TRUE	No RSP recording	JB	22/01/2026
+sub-060	run-06	RSP flatline 136.4s	FALSE	TRUE	Long flat line segments	JB	22/01/2026
+sub-063	run-08	RSP flatline 47.8s	FALSE	TRUE	Long flat line segments	JB	22/01/2026

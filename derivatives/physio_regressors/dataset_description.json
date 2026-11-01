@@ -1,0 +1,17 @@
+{
+    "Name": "Physiological Regressors for fMRI",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "derivative",
+    "GeneratedBy": [
+        {
+            "Name": "calculate_physio_regressors",
+            "Version": "1.0",
+            "Description": "HRV and RVT regressors calculated using NeuroKit2"
+        }
+    ],
+    "HowToAcknowledge": "HRV calculated from PPG peak intervals. RVT calculated following Birn et al. (2006).",
+    "License": "CC0",
+    "ReferencesAndLinks": [
+        "Birn, R. M., et al. (2006). Separating respiratory-variation-related fluctuations from neuronal-activity-related fluctuations in fMRI. NeuroImage, 31(4), 1536-1548."
+    ]
+}
